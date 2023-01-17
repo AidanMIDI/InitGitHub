@@ -10,7 +10,7 @@ namespace InitGitHub
     {
         public void MaMethode()
         {
-            Console.WriteLine("Ceci est la methode de pierre");
+            Console.WriteLine("Ceci est la methode de pierre : ajout de texte de Arwenn");
         }
     }
 }
