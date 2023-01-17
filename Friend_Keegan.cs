@@ -8,5 +8,9 @@ namespace InitGitHub
 {
     internal class Friend_Keegan
     {
+        public void MaMethode()
+        {
+            Console.WriteLine("Ceci est la méthode de NOM");
+        }
     }
 }
