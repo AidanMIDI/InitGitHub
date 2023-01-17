@@ -10,7 +10,7 @@ namespace InitGitHub
     {
         public void MaMethode()
         {
-            Console.WriteLine("Ceci est la methode de Arwenn");
+            Console.WriteLine("Ceci est la methode de Arwenn.");
         }
     }
 }
