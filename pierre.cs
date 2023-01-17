@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace InitGitHub
 {
-    internal class Arwenn
+    internal class pierre
     {
         public void MaMethode()
         {
-            Console.WriteLine("Ceci est la methode de Arwenn: Ajout de texte de pierre");
+            Console.WriteLine("Ceci est la methode de pierre");
         }
     }
 }
