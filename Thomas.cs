@@ -8,5 +8,9 @@ namespace InitGitHub
 {
     internal class Thomas
     {
+        public void MaMethode()
+        {
+            Console.WriteLine("Ceci est la méthode de Thomas");
+        }
     }
 }
