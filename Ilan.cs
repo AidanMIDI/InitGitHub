@@ -10,7 +10,7 @@ namespace InitGitHub
     {
         public void MaMethode()
         {
-            Console.WriteLine("Voici la méthode de Ilan_A: Ajout de texte venant de Ilan_A");
+            Console.WriteLine("Voici la méthode de Ilan_A: Ajout de texte venant de Keegan_B");
         }
     }
 }
