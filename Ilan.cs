@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace InitGitHub
 {
-    internal class Class1
+    internal class Ilan
     {
+        public void MaMethode()
+        {
+            Console.WriteLine("Voici la méthode de Ilan");
+        }
     }
 }
