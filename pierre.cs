@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace InitGitHub
 {
-    internal class Ilan
+    internal class pierre
     {
         public void MaMethode()
         {
-            Console.WriteLine("Voici la méthode de Ilan_A: Ajout de texte venant de Keegan_B");
+            Console.WriteLine("Ceci est la methode de pierre");
         }
     }
 }

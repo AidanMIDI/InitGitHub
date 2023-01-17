@@ -11,6 +11,7 @@ namespace InitGitHub
         public void MaMethode()
         {
             Console.WriteLine("Ceci est la methode de Arwenn : Ajout de texte venant de Arwenn");
+            Console.WriteLine("Ceci est la methode de Arwenn: Ajout de texte de Pierre");
         }
     }
 }
